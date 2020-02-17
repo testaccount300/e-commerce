@@ -22,4 +22,5 @@ const findCharPost = (string1, k1) => {
   })
 }
 
+
 const hello = () => 'hello';
