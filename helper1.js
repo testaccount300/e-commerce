@@ -21,3 +21,9 @@ const findCharPost = (string1, k1) => {
     position += 1;
   })
 }
+
+/*
+    the function compareString() passed testing, but function 
+    findCharPost() no!. The result findCharPost() is always
+    undefined.
+*/
