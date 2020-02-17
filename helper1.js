@@ -12,3 +12,12 @@ const compareString = (s1,s2) => {
     return isSame;
 }
 
+const findCharPost = (string1, k1) => {
+  let position = 0;
+  [...string1].forEach(c => {
+    if (c == k1) {
+      return position;
+    }
+    position += 1;
+  })
+}
