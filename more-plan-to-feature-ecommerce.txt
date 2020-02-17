@@ -1,0 +1,3 @@
+MORE PLAN TO FEATURE E-COMMERCE
+-- Integrattion with API travelling
+-- Integration with goverment database
