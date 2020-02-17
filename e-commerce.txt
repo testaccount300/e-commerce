@@ -1,0 +1,12 @@
+Simple E-Commerce
+-----------------
+ -- Stack
+   - Spring Boot
+   - PostgreSQL
+   - Hibernate
+   - JPA
+   - Swagger
+   - Lombok
+   - JWT Authentication
+-- Feature
+  - 
