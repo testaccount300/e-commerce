@@ -9,4 +9,4 @@ Simple E-Commerce
    - Lombok
    - JWT Authentication
 -- Feature
-  - 
+  - Integration bank account user with payment card
