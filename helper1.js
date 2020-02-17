@@ -1,3 +1,4 @@
+
 const compareString = (s1,s2) => {
     let isSame = true;
     if (s1.length == s2.length) {
@@ -10,3 +11,4 @@ const compareString = (s1,s2) => {
     } else isSame = false;
     return isSame;
 }
+
